@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 919f8c066dca88d46ccc9143fedcb7771ddc6c93 bhavya <bhavyareddy506@gmail.com> 1758524929 +0530	commit (initial): Add README
+919f8c066dca88d46ccc9143fedcb7771ddc6c93 434a4dbd1da8df85018b85b8476cfcd997f541b3 bhavya <bhavyareddy506@gmail.com> 1758534094 +0530	commit: Finalizing full project structure upload, including all nested directories
+434a4dbd1da8df85018b85b8476cfcd997f541b3 ffc975e34e19624d14aa01c5f8260edcfde2c33d bhavya <bhavyareddy506@gmail.com> 1758534180 +0530	pull origin main: Merge made by the 'ort' strategy.
+ffc975e34e19624d14aa01c5f8260edcfde2c33d 306cf554081e6ce885fa9f691961aed317b4b340 bhavya <bhavyareddy506@gmail.com> 1758534586 +0530	commit: Cleanup:Ignore node_modules directory to resolve 100MB file limit
