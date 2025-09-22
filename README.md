@@ -46,7 +46,7 @@ Gemini API Key (for content generation)
 Twitter/X, LinkedIn, and Instagram Developer Credentials (for posting)
 
 Getting Started
-Clone the Repository:https://github.com/BhaviReddyy/hf-social/
+Clone the Repository:https://github.com/BhaviReddyy/hf-social
 
 Bash
 
